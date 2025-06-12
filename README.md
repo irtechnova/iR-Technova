@@ -1,57 +1,66 @@
-# iR Technova 🌐
+# 🌐 iR Technova
+
 **Digital Marketing & Creative Solutions Agency**
 
-Welcome to the official repository of **iR Technova**, your one-stop solution for digital marketing, branding, YouTube growth, and creative design services.
+![iR Technova Logo](./iR%20Tecnova%20Facebook%20Profile.png)
 
 ---
 
-## 📧 Contact Us
-- **Gmail:** irtechnova@gmail.com  
-- **Phone/WhatsApp:** +880 1626-524937  
-- **Facebook:** [IR Technova](https://facebook.com/IRTechnova)
+## 🚀 About Us
+
+**iR Technova** is a full-service digital marketing and creative agency based in Bangladesh. We help individuals and businesses establish, grow, and manage their online presence with modern tools and strategic expertise.
 
 ---
 
-## 🎨 Services We Offer
+## 💼 Services We Offer
 
-### 🎯 Graphic Design:
+### 🎨 Graphic Design
 - Logo Design  
-- Social Media Post Design  
-- Posters / Banners / Flyers  
-- YouTube Thumbnails  
-- Business Card Design  
+- Social Media Post, Poster / Banner / Flyer  
+- YouTube Thumbnail  
+- Business Card Design
 
-### 📘 Facebook Services:
+### 📘 Facebook Services
 - FB Page Setup  
 - FB ID Management (Monthly)  
-- Page Boost  
+- Page Boosting  
 - Real Followers  
-- Auto Post Management (Monthly)  
+- Auto Post Management (Monthly)
 
-### 📺 YouTube Channel Services:
+### 📺 YouTube Channel Services
 - Channel Setup & Branding  
 - Video Upload + SEO (Per Video)  
-- Monthly Channel Management (4–8 videos)  
-- Monetization Support (Watch time, Subscribers)  
+- Monthly Channel Management (4–8 Videos)  
+- Monetization Support (Watch Time & Subscribers)
 
-### 💼 Digital Marketing / Ads:
+### 📢 Digital Marketing / Ads
 - Facebook Ads Management (Monthly)  
 - YouTube Ads Management  
-- Targeted Campaigns (Full Setup)  
+- Targeted Campaign (Full Setup)
 
-### 🧩 Combo / Monthly Packages:
-- **Starter Pack** – Design + Facebook Management  
-- **YouTube Growth Pack** – Channel Management + SEO + Thumbnail  
-- **Business Boost Pack** – FB + YouTube + Design + Ads  
-
----
-
-## 🔧 Tech Stack for Website (Suggested)
-- HTML5, CSS3, JavaScript (Vanilla or React)
-- Bootstrap / Tailwind (optional)
-- GitHub Pages / Vercel for Deployment
+### 📦 Combo / Monthly Packages
+- **Starter Pack** (Design + FB Management)  
+- **YouTube Growth Pack** (Channel Mgmt + SEO + Thumbnail)  
+- **Business Boost Pack** (FB + YT + Design + Ads)
 
 ---
 
-## 👨‍💻 License
-This project is under development and maintained by **iR Technova**. All rights reserved.
+## 📞 Contact
+
+- **Email:** [irtechnova@gmail.com](mailto:irtechnova@gmail.com)  
+- **Phone / WhatsApp:** +880 1626-524937  
+- **Facebook:** [IR Technova](https://www.facebook.com/irtechnova)
+
+---
+
+## 🌍 Website Preview
+
+Check out our static HTML website:  
+🔗 [index.html](./index.html)
+
+> Powered by passion, creativity, and results.
+
+---
+
+## 📁 Repository Structure
+
