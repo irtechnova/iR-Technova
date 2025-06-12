@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>iR Technova | Digital Marketing & Creative Solutions</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+      color: white;
+    }
+
+    header {
+      text-align: center;
+      padding: 2rem 1rem;
+      background-color: #051d40;
+    }
+
+    header img {
+      max-width: 180px;
+      margin-bottom: 1rem;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      color: #00d2ff;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      color: #ccc;
+    }
+
+    section {
+      padding: 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    h2 {
+      border-bottom: 2px solid #00d2ff;
+      padding-bottom: 0.5rem;
+      margin-bottom: 1rem;
+    }
+
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    li::before {
+      content: '✔';
+      color: #00d2ff;
+      margin-right: 0.5rem;
+    }
+
+    .contact {
+      background-color: #06274d;
+      padding: 1rem;
+      border-radius: 10px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      background-color: #031424;
+      color: #aaa;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <img src="iR%20Tecnova%20Facebook%20Profile.png" alt="iR Technova Logo">
+    <h1>iR Technova</h1>
+    <p>Digital Marketing & Creative Solutions Agency</p>
+  </header>
+
+  <section>
+    <h2>🎨 Graphic Design</h2>
+    <ul>
+      <li>Logo Design</li>
+      <li>Social Media Post, Poster / Banner / Flyer</li>
+      <li>YouTube Thumbnail</li>
+      <li>Business Card Design</li>
+    </ul>
+
+    <h2>📘 Facebook Services</h2>
+    <ul>
+      <li>FB Page Setup</li>
+      <li>FB ID Management (Monthly)</li>
+      <li>Page Boost</li>
+      <li>Real Followers</li>
+      <li>Auto Post Management (Monthly)</li>
+    </ul>
+
+    <h2>📺 YouTube Channel Services</h2>
+    <ul>
+      <li>Channel Setup & Branding</li>
+      <li>Video Upload + SEO (Per Video)</li>
+      <li>Monthly Channel Management (4–8 videos)</li>
+      <li>Monetization Support (Watch Time, Subscribers)</li>
+    </ul>
+
+    <h2>📢 Digital Marketing / Ads</h2>
+    <ul>
+      <li>Facebook Ads Management (Monthly)</li>
+      <li>YouTube Ads Management</li>
+      <li>Targeted Campaign (Full Setup)</li>
+    </ul>
+
+    <h2>📦 Combo / Monthly Packages</h2>
+    <ul>
+      <li>Starter Pack (Design + FB Mgmt)</li>
+      <li>YouTube Growth Pack (Channel Mgmt + SEO + Thumbnail)</li>
+      <li>Business Boost Pack (FB + YT + Design + Ads)</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>📞 Contact Us</h2>
+    <p>Email: <a href="mailto:irtechnova@gmail.com" style="color: #00d2ff;">irtechnova@gmail.com</a></p>
+    <p>Phone / WhatsApp: +880 1626-524937</p>
+    <p>Facebook: <a href="https://www.facebook.com/irtechnova" style="color: #00d2ff;">IR Technova</a></p>
+  </section>
+
+  <footer>
+    &copy; 2025 iR Technova. All rights reserved.
+  </footer>
+</body>
+
+</html>
